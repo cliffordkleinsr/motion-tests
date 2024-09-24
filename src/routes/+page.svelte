@@ -3,7 +3,8 @@
   
 </script>
 <div class="grid gap-1 max-w-full prose container items-center justify-center">
-  <h1 class="text-white">Motion-Start Functional tests</h1>
+  <h1 class="dark:text-white">Motion-Start Functional tests</h1>
+  <h2 class="dark:text-white">Getting started</h2>
   <!-- Stepper -->
   <ul class="relative grid gap-1">
     <!-- Item -->
@@ -22,7 +23,7 @@
     <!-- End Item -->
     <div class="grid">
         <pre class="text-gray-800 dark:text-white/70 mx-9 max-w-md">https://github.com/JonathonRP/motion-start.git</pre>
-        <pre class="text-gray-800 dark:text-white/70 mx-9 max-w-md">https://github.com/JonathonRP/motion-start.git</pre>
+        <pre class="text-gray-800 dark:text-white/70 mx-9 max-w-md">https://github.com/cliffordkleinsr/motion-tests.git</pre>
     </div>
     
     <!-- Item -->
